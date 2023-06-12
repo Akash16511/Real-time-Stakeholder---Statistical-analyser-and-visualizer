@@ -24,25 +24,25 @@ Upload your excel sheet using the button tab and select the menu.
 
 ## Functionalities - (Save and view option available)
 
-1. Get the raw data file
+### Get the raw data file
 
 ![main table](https://github.com/Akash16511/Real_Time_field_stay_buisiness_statistics_and_analysis/assets/86300718/6fa1d4ed-8181-4f30-96be-3fb33ddbc033)
 
-2. Select choice and as per choice get the results (you may save the data and visualize it both)
+### Select choice and as per choice get the results (you may save the data and visualize it both)
 
-3. Get categorical excel output
+### Get categorical excel output
 
 ![categorical table](https://github.com/Akash16511/Real_Time_field_stay_buisiness_statistics_and_analysis/assets/86300718/ff321d3f-95e3-4bb6-b336-b54a1f958bb5)
 
-4. Get statistics in excel format
+### Get statistics in excel format
 
 ![stat](https://github.com/Akash16511/Real_Time_field_stay_buisiness_statistics_and_analysis/assets/86300718/17860d0e-f255-492d-a4e3-5d0b718dba30)
 
-5. Get full excel output in count vs % format
+### Get full excel output in count vs % format
 
 ![Screenshot 2023-06-12 085356](https://github.com/Akash16511/Real_Time_field_stay_buisiness_statistics_and_analysis/assets/86300718/f940227e-c9c5-4403-abf3-b6a7173d4473)
 
-6. Get the visuals in multiple format
+### Get the visuals in multiple format
 
 ![category visual](https://github.com/Akash16511/Real_Time_field_stay_buisiness_statistics_and_analysis/assets/86300718/ea2f7b04-1397-405d-a7e6-12223e7dc376)
 
