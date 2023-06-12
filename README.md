@@ -6,12 +6,12 @@
 3. [VSCodeIDE](https://code.visualstudio.com/)
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
-##Introduction
+## Introduction
 
 1. This project is made forthose who wants to get the data insights and statistics in tabular and visual form from raw excel sheet (such as survey excel from KobotoolBox) , so that user may give more time in analysing the data not in cleaning , sorting , merging and creating visuals.
 2. The project supports excel and csv formatted sheet and can deliver outpit with just selecting a choice from menu
 
-##Project choice menu
+## Project choice menu
 
 1. Get the statististical analysis of your uploaded file",
 2. Get the Excel file - Grouped data with categorical sub group :Count and Percentage data of your uploaded file",
@@ -22,7 +22,7 @@
 
 Upload your excel sheet using the button tab and select the menu.
 
-##Functionalities - (Save and view option available)
+## Functionalities - (Save and view option available)
 
 1. Get the raw data file
 
