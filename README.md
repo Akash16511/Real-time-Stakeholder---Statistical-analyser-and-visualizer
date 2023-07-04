@@ -8,8 +8,8 @@
 
 ## Introduction
 
-1. This project is made forthose who wants to get the data insights and statistics in tabular and visual form from raw excel sheet (such as survey excel from KobotoolBox) , so that user may give more time in analysing the data not in cleaning , sorting , merging and creating visuals.
-2. The project supports excel and csv formatted sheet and can deliver outpit with just selecting a choice from menu
+1. This project is made for those who wants to get the data insights and statistics in tabular and visual form from raw excel sheet (such as survey excel from KobotoolBox) , so that user may give more time in analysing the data not in cleaning , sorting , merging and creating visuals.
+2. The project supports excel and csv formatted sheet and can deliver output with just selecting a choice from menu
 
 ## Project choice menu
 
