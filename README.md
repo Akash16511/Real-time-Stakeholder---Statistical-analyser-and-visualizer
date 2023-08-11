@@ -1,4 +1,4 @@
-# Real time Stakeholder - Statistical analyser and visualizer
+# Real time Stakeholder Mapping - Statistical analyser and visualizer
 
 ## Software And Tools Requirements
 
